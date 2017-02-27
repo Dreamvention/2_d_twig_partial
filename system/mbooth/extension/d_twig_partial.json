@@ -1,6 +1,6 @@
 {
     "codename": "d_twig_partial",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "Twig Partials",
     "description": "Add twig partials and js to your opencart",
     "author": {
@@ -53,6 +53,10 @@
         "catalog/view/theme/default/template/partial/d_rating.twig"
     ],
     "changelog": [
+        {
+            "varsion":"1.0.1",
+            "change": "First d_breadcrumb"
+        },
         {
             "varsion":"1.0.0",
             "change": "First release"
