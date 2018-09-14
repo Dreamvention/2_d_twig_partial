@@ -5,8 +5,9 @@
             {% if static_rating %} data-readonly{% endif %}>
 </div>
 <script>
-
-	$('input[name=\'rating\']').rating();
+	$(document).ready(function () {
+		$('input[name=\'rating\']').rating();
+	})
 
 </script>
 <!-- /> d_rating -->

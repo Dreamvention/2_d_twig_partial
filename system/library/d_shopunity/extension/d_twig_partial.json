@@ -35,6 +35,14 @@
         "url": "https://shopunity.net/"
     },
     "files": [
+        "catalog/view/theme/default/template/partial/d_product_list.twig",
+        "catalog/view/theme/default/template/partial/d_mini_cart.twig",
+        "catalog/view/theme/default/template/partial/d_cart.twig",
+        "catalog/view/theme/default/template/partial/d_review.twig",
+        "catalog/view/theme/default/template/partial/d_search.twig",
+        "catalog/view/theme/default/template/partial/input.twig",
+        "catalog/view/theme/default/template/partial/form_group.twig",
+        "catalog/view/theme/default/template/partial/button.twig",
         "system/library/d_shopunity/extension/d_twig_partial.json",
 
         "catalog/view/theme/default/javascript/partial/d_address_field.js",
