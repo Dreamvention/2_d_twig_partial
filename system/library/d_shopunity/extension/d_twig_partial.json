@@ -1,6 +1,6 @@
 {
     "codename": "d_twig_partial",
-    "version": "1.1.3",
+    "version": "1.1.2",
     "name": "Twig Partials",
     "description": "Add twig partials and js to your opencart",
     "author": {
@@ -35,14 +35,6 @@
         "url": "https://shopunity.net/"
     },
     "files": [
-        "catalog/view/theme/default/template/partial/d_product_list.twig",
-        "catalog/view/theme/default/template/partial/d_mini_cart.twig",
-        "catalog/view/theme/default/template/partial/d_cart.twig",
-        "catalog/view/theme/default/template/partial/d_review.twig",
-        "catalog/view/theme/default/template/partial/d_search.twig",
-        "catalog/view/theme/default/template/partial/input.twig",
-        "catalog/view/theme/default/template/partial/form_group.twig",
-        "catalog/view/theme/default/template/partial/button.twig",
         "system/library/d_shopunity/extension/d_twig_partial.json",
 
         "catalog/view/theme/default/javascript/partial/d_address_field.js",
@@ -52,6 +44,10 @@
         "catalog/view/theme/default/template/partial/d_account_field.twig",
         "catalog/view/theme/default/template/partial/d_address_field.twig",
         "catalog/view/theme/default/template/partial/d_breadcrumb.twig",
+        "catalog/view/theme/default/template/partial/button.twig",
+        "catalog/view/theme/default/template/partial/input.twig",
+        "catalog/view/theme/default/template/partial/input_group.twig",
+        "catalog/view/theme/default/template/partial/form_group.twig",
         "catalog/view/theme/default/template/partial/d_button.twig",
         "catalog/view/theme/default/template/partial/d_button_continue.twig",
         "catalog/view/theme/default/template/partial/d_button_submit.twig",
@@ -63,17 +59,12 @@
         "catalog/view/theme/default/template/partial/d_notification.twig",
         "catalog/view/theme/default/template/partial/d_product_sort.twig",
         "catalog/view/theme/default/template/partial/d_product_thumb.twig",
-        "catalog/view/theme/default/template/partial/d_rating.twig",
-        "catalog/view/theme/default/template/partial/d_mini_cart.twig"
+        "catalog/view/theme/default/template/partial/d_rating.twig"
     ],
     "changelog": [
         {
-            "varsion":"1.1.3",
-            "change": "Mini cart"
-        },
-        {
             "varsion":"1.1.2",
-            "change": "Rating change"
+            "change": "Rating change;"
         },
         {
             "varsion":"1.1.1",
